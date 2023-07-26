@@ -1,0 +1,9 @@
+SECRET_KEY='my-key'
+DEBUG_STATE=True
+DEPLOY_STATE=False
+DATABASES_ENGINE='django.db.backends.postgresql_psycopg2'
+DATABASES_NAME='postgres'
+DATABASES_USER='postgres'
+DATABASES_PASSWORD='postgres'
+DATABASES_HOST='localhost'
+DATABASES_PORT='5432'
